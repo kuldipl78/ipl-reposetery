@@ -1,0 +1,25 @@
+.team-matches-container {
+  background-color: #1e293b;
+  color: #ffffff;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.team-banner {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.recent-matches-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
